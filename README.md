@@ -1,16 +1,19 @@
 # Neschuk Gonzalo
 
-<!--
-**Neschuk/Neschuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Soy un 
 
-Here are some ideas to get you started:
+Mis Habilidades y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lenguajes de Programación**
+- **Sistemas:** C, C++
+- **Web:** HTML, CSS, JavaScript
+- **General:** Python
+
+**Software y Aplicaciones**
+- **Ofimática:** Microsoft Access, Excel, Word
+- **Desarrollo y Diseño:** Godot Engine, Blender, Blockbench, 
+- **Herramientas:** Git, GitHub Desktop
+
+**Entorno de Trabajo**
+- **Sistemas Operativos:** Linux (manejo avanzado de terminal)
+- **Hardware:** Diagnóstico electrónico y conocimientos de arquitectura de hardware
