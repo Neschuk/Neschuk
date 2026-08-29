@@ -1,4 +1,4 @@
-<a href="mailto:tu-correo@proton.me">
+<a href="mailto:neschuk.gonzalo@proton.me">
   <img width="1920" height="387" src="https://github.com/user-attachments/assets/76387f1f-366a-4d57-bb42-aedab8b3f9b8" alt="Envíame un correo">
 </a>
 
