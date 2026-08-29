@@ -1,19 +1,10 @@
 # Neschuk Gonzalo 
 
-<table>
-  <tr>
-    <td width="40">
-      <img src="https://placehold.co/10x150/F4594E/F4594E.png" width="10" height="150"><img src="https://placehold.co/10x150/F4AC4E/F4AC4E.png" width="10" height="150"><img src="https://placehold.co/10x150/E9F44E/E9F44E.png" width="10" height="150">
-    </td>
-    <td>
-      <h3>Soy Gonzalo Neschuk</h3>
-      <p>Soy estudiante de Ingeniería en Informática en la Universidad Gastón Dachary. Me apasiona el desarrollo de software a bajo nivel, la gestión de memoria y la creación de aplicaciones nativas, trabajando principalmente con <b>C</b>.</p>
-      <p>Desde Posadas, Misiones, dedico gran parte de mi tiempo a explorar entornos Linux, automatizar procesos en la terminal y aplicar mis conocimientos en el diagnóstico y reparación de hardware modular. Mi objetivo es construir sistemas eficientes desde la capa física hasta la lógica.</p>
-    </td>
-  </tr>
-</table>
 
----
+.<h3>Soy Gonzalo Neschuk</h3>
+      <p>Soy estudiante de Ingeniería en Informática. Me apasiona el desarrollo de software a bajo nivel, la gestión de memoria y la creación de aplicaciones nativas, trabajando principalmente con <b>C</b>.</p>
+      <p>Dedico gran parte de mi tiempo a explorar entornos Linux, automatizar procesos en la terminal y aplicar mis conocimientos en el diagnóstico y reparación de hardware modular. Mi objetivo es construir sistemas eficientes desde la capa física hasta la lógica.</p>
+
 ### Mis Habilidades y Herramientas
 
 **Lenguajes de Programación**
