@@ -1,7 +1,19 @@
 # Neschuk Gonzalo 
 
-*Estudiante de Ingeniería en Informática. Desarrollo de bajo nivel, alto rendimiento y atención al detalle visual.*
+<table>
+  <tr>
+    <td width="40">
+      <img src="https://placehold.co/10x150/F4594E/F4594E.png" width="10" height="150"><img src="https://placehold.co/10x150/F4AC4E/F4AC4E.png" width="10" height="150"><img src="https://placehold.co/10x150/E9F44E/E9F44E.png" width="10" height="150">
+    </td>
+    <td>
+      <h3>Soy Gonzalo Neschuk</h3>
+      <p>Soy estudiante de Ingeniería en Informática en la Universidad Gastón Dachary. Me apasiona el desarrollo de software a bajo nivel, la gestión de memoria y la creación de aplicaciones nativas, trabajando principalmente con <b>C</b>.</p>
+      <p>Desde Posadas, Misiones, dedico gran parte de mi tiempo a explorar entornos Linux, automatizar procesos en la terminal y aplicar mis conocimientos en el diagnóstico y reparación de hardware modular. Mi objetivo es construir sistemas eficientes desde la capa física hasta la lógica.</p>
+    </td>
+  </tr>
+</table>
 
+---
 ### Mis Habilidades y Herramientas
 
 **Lenguajes de Programación**
@@ -12,16 +24,24 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-**Software y Aplicaciones**
+**Diseño Gráfico y Modelado**
+<br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+**Ofimática y Hardware**
 <br>
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23FFFFFF.svg?style=for-the-badge&logo=figma)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Entorno y Herramientas**
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
