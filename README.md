@@ -1,4 +1,7 @@
-<img width="1920" height="387" alt="Proyecto nuevo(2)" src="https://github.com/user-attachments/assets/0621864c-01d3-402c-9624-6c7956dfc02e" />
+<a href="mailto:tu-correo@proton.me">
+  <img width="1920" height="387" src="https://github.com/user-attachments/assets/76387f1f-366a-4d57-bb42-aedab8b3f9b8" alt="Envíame un correo">
+</a>
+
 
 <h3>Soy Gonzalo Neschuk</h3>
       <p>Soy estudiante de Ingeniería en Informática. Me apasiona el desarrollo de software a bajo nivel, la gestión de memoria y la creación de aplicaciones nativas, trabajando principalmente con <b>C</b>.</p>
