@@ -2,10 +2,9 @@
   <img width="1920" height="387" src="https://github.com/user-attachments/assets/76387f1f-366a-4d57-bb42-aedab8b3f9b8" alt="Envíame un correo">
 </a>
 
-
-<h3>Soy Gonzalo Neschuk</h3>
-      <p>Soy estudiante de Ingeniería en Informática. Me apasiona el desarrollo de software a bajo nivel, la gestión de memoria y la creación de aplicaciones nativas, trabajando principalmente con <b>C</b>.</p>
-      <p>Dedico gran parte de mi tiempo a explorar entornos Linux, automatizar procesos en la terminal y aplicar mis conocimientos en el diagnóstico y reparación de hardware modular. Mi objetivo es construir sistemas eficientes desde la capa física hasta la lógica.</p>
+<h3>¡Hola! Soy Gonzalo Neschuk</h3>
+<p>Estudiante de Ingeniería en Informática. Mi enfoque principal es el <b>desarrollo de bajo nivel y el alto rendimiento</b>, creando sistemas robustos y eficientes en lenguajes como C. </p>
+<p>Al mismo tiempo, tengo una gran <b>atención al detalle visual</b>. Combino mi lógica de programación con habilidades en diseño de interfaces y modelado, con el objetivo de construir software que sea tan eficiente en su arquitectura interna como impecable en su experiencia de usuario.</p>
 
 ### Mis Habilidades y Herramientas
 
