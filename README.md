@@ -1,7 +1,6 @@
-# Neschuk Gonzalo 
+<img width="1920" height="387" alt="Proyecto nuevo(2)" src="https://github.com/user-attachments/assets/0621864c-01d3-402c-9624-6c7956dfc02e" />
 
-
-.<h3>Soy Gonzalo Neschuk</h3>
+<h3>Soy Gonzalo Neschuk</h3>
       <p>Soy estudiante de Ingeniería en Informática. Me apasiona el desarrollo de software a bajo nivel, la gestión de memoria y la creación de aplicaciones nativas, trabajando principalmente con <b>C</b>.</p>
       <p>Dedico gran parte de mi tiempo a explorar entornos Linux, automatizar procesos en la terminal y aplicar mis conocimientos en el diagnóstico y reparación de hardware modular. Mi objetivo es construir sistemas eficientes desde la capa física hasta la lógica.</p>
 
@@ -24,12 +23,11 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-**Ofimática y Hardware**
+**Ofimática**
 <br>
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Entorno y Herramientas**
 <br>
